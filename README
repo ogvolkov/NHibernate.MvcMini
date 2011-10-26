@@ -1,0 +1,3 @@
+Small plugin for making MVC mini profiler work with NHibernate.
+Initial source code was taken from http://stackoverflow.com/questions/5676812/is-it-possibel-to-use-fluentnhibernate-with-an-odbc-connection,
+modifications include NHibernate 3.1 compatibility, Futures support and class separation.
